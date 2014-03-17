@@ -6,5 +6,6 @@ For more info visit: https://sites.google.com/site/oopsysugaractivity/
 Download now on your XO Laptop : 
 http://activities.sugarlabs.org/en-US/sugar/addon/4634
 
+author:
 Kartik Perisetla
 http://tinyurl.com/kartikperiseta
